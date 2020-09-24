@@ -1,3 +1,5 @@
 .background{
-    background-image: -moz-repeating-radial-gradient();
+  background: url(sand.jpg); 
+  background-repeat: no-repeat; 
+  background-size: auto; 
 }
