@@ -1,5 +1,9 @@
-.background{
-  background: url(sand.jpg); 
-  background-repeat: no-repeat; 
-  background-size: auto; 
+body {
+  padding: 0;
+  margin: 0;
+  font-family: font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+
 }
