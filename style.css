@@ -18,10 +18,17 @@ body {
 .fa-facebook {
   background: #3B5998;
   color: white;
+} 
+
+.fa-instagram { 
+  background: #125688;
+  color: white;
 }
 
-.fa-instagram {
-  background: #125688;
+.fa-linkedin {
+  margin-left: auto;
+  margin-right: auto;
+  background: #007bb5;
   color: white;
 }
 
@@ -33,7 +40,39 @@ p {
   font-size: larger;
 }
 
-#navbar-brand {
-  font-weight: bolder;
+.card img {
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  /* width: 100px;
+  height: 100px; */
 }
 
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.card {
+  margin: 60px;
+}
+
+.contactMe {
+  text-align: center;
+  color: #364b55;
+}
+
+.email {
+  text-align: center;
+  color: white;
+  font-size: medium;
+}
+
+.gitHub {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+i.fa-github:before {
+  color: white;
+}
