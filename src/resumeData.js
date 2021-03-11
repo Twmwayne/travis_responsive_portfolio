@@ -1,36 +1,36 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://github.com/Twmwayne",
+    "name": "Travis Mendenhall",
+    "role": "Full Stack Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like Coding, learnig new skills, and golfing.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/travis-mendenhall-4571421bb/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/Twmwayne",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"twmwayne@gmail.com",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Recently attended the University of Utah Web Development program.",
+    "address":"Utah",
+    "website":"https://github.com/Twmwayne",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "UniversityName":"University of Utah",
+        "specialization":"Full Stack Web Developement",
+        "MonthOfPassing":"Mar",
+        "YearOfPassing":"2021",
         "Achievements":"Some Achievements"
       },
       {
@@ -43,10 +43,10 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "CompanyName":"Wire Utah",
+        "specialization":"Electrician",
+        "MonthOfLeaving":"Mar",
+        "YearOfLeaving":"2021",
         "Achievements":"Some Achievements"
       },
       {
@@ -63,7 +63,7 @@ let resumeData = {
         "skillname":"HTML5"
       },
       {
-        "skillname":"CSS"
+        "skillname":"JavaScript"
       },
       {
         "skillname":"Reactjs"
@@ -72,18 +72,18 @@ let resumeData = {
     "portfolio":[
       {
         "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"Movie Tracker",
+        "imgurl":"https://github.com/Twmwayne/project1"
       },
       {
         "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "description":"Fitness Tracker",
+        "imgurl":"https://git.heroku.com/agile-cliffs-80761.git"
       },
       {
         "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "description":"Employee Tracker",  
+        "imgurl":"https://github.com/Twmwayne/travis_employee_tracker"
       },
       {
         "name":"project4",
@@ -91,16 +91,16 @@ let resumeData = {
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
+    // "testimonials":[
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   },
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   }
+    //]
   }
   
   export default resumeData
