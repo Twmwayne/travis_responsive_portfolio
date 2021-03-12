@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like Coding, learnig new skills, and golfing.",
+    "roleDescription": " I like Coding, learnig new skills, and golfing.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"Recently attended the University of Utah Web Development program.",
     "address":"Utah",
-    "website":"https://github.com/Twmwayne",
+    "website":"twmwayne@gmail.com",
     "education":[
       {
         "UniversityName":"University of Utah",
